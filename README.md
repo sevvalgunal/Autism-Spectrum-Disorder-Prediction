@@ -2,8 +2,6 @@
 
 This project investigates the use of machine learning and statistical models to predict Autism Spectrum Disorder (ASD) based on AQ-10 screening questionnaire results and demographic features.
 
-**Note:** Due to academic submission policies, the full report and source code will be uploaded after the term ends (July 2025).
-
 ## Project Overview
 
 - **Topic:** Early prediction of ASD using digital screening tools
