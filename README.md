@@ -31,10 +31,3 @@ This project investigates the use of machine learning and statistical models to 
 - **Key Libraries:** `caret`, `glmnet`, `xgboost`, `mice`, `nnet`
 - **Environment:** RStudio
 
-## Full Access
-
-Due to academic integrity rules (Turnitin submission pending), I’m unable to share the report or code at this time.  
-If you're a reviewer or hiring manager and would like early access, feel free to contact me privately.
-
-
-**Contact:** Şevval Günal – sevvalgunall@gmail.com | [https://github.com/sevvalgunal]
